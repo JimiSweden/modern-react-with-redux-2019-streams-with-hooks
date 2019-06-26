@@ -13,6 +13,7 @@ streams\rtmpserver - hosting the stream from OBS Studio
 
 ## and is dependent on (besides the node modules)
 OBS Studio - open source for video streaming and recording
+
 Google APIs - only for signin with 'gapi.auth2'
 
 
@@ -25,7 +26,7 @@ I use Yarn package manager but npm would work also.
 Run 'yarn install' to fetch node modules
 Then 'yarn start' to run the project
 
-### Use Chrome and add on "redux dev tools" to debug the redux state
+*Use Chrome and the add on "redux dev tools" to debug the redux state*
 
 ## To enable the api (saving and fetching data)
 Start the api server (json-server) in a console 
