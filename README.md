@@ -1,5 +1,5 @@
 # React app with redux, hooks, Google Auth, OBS Streaming
-From coding along with Stephen Grider in his Udemy course https://www.udemy.com/react-redux 
+From coding along with Stephen Grider in his Udemy course https://www.udemy.com/react-redux (and code here https://github.com/StephenGrider/redux-code)
 - if you are new or kind of new to React I highly recommend it, at least read the descrition to see what's in it, I did learn some stuff 
 - and it was really nice to code along and have the structure and requirements as I built my app with the new (new in 2019) hooks system and only functional components, where Stephen builds the app with class components. I could fokus on what it should look like and how it should function and not be destracted by designing and feature creeping =) 
 
